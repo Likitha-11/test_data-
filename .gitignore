@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/slnx.sqlite
+/.vs/test data/v17/.wsuo
+/.vs/test data/v17/DocumentLayout.json
+/.vs/VSWorkspaceState.json
+/.vs/test data/FileContentIndex
